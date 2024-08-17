@@ -1,0 +1,23 @@
+kotharig:
+  name: Shivansh Kothari
+  title: Full Stack Developer | Freelancer
+  url: https://github.com/ShivanshKothari
+  image_url: https://avatars.githubusercontent.com/u/105049306?s=400&u=cb413f61068a79ce4b25752d3313e31aaacc59b9&v=4
+  page: true
+  socials:
+    x: yangshunz
+    github: yangshun
+
+subhnegi:
+  name: Subham Negi
+  title: Full Stack Developer | Freelancer
+  url: https://github.com/subhnegi
+  image_url: https://github.com/slorber.png
+  page:
+    # customize the url of the author page at /blog/authors/<permalink>
+    permalink: '/all-sebastien-lorber-articles'
+  socials:
+    x: sebastienlorber
+    linkedin: sebastienlorber
+    github: slorber
+    newsletter: https://thisweekinreact.com
