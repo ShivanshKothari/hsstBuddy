@@ -1,6 +1,4 @@
-Here's a draft of a README.md file for your GitHub repository:
 
-```markdown
 # HSST Buddy: Resources for Himalayan School of Science & Technology
 
 Welcome to the HSST Buddy repository! This project aims to create a comprehensive resource hub for students of the Himalayan School of Science & Technology (HSST).
@@ -63,8 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Thanks to all the contributors who have helped build this resource.
 - Special thanks to the faculty and administration of HSST for their support.
 
-```
-
-This README provides an overview of your project, explains its purpose, gives instructions for contributing and running the project locally, and acknowledges the maintainers and contributors. You may want to adjust the content based on specific details of your project or add more sections as needed.
-
-Would you like me to elaborate on any part of this README or suggest additional sections?
